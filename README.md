@@ -74,3 +74,8 @@ Hi, I'm Sandeep Nainala — a passionate DevOps engineer dedicated to bridging t
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepnainala&show_icons=true&locale=en" alt="sandeepnainala" /></p>
 
+
+---
+
+> "DevOps is not a goal, but a never-ending process of continual improvement."  — Jez Humble
+
